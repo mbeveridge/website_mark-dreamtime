@@ -1,0 +1,77 @@
+<html>
+
+<head>
+<title>Mark Beveridge | Homepage</title>
+<link rel="stylesheet" type="text/css" href="css/styles.css"/>
+<!-- The social media links are Font Awesome font and method (i tag) -->
+<link rel="stylesheet" type="text/css" href="css/font-awesome.css">
+
+</head>
+
+
+<body>
+
+<!--The canvasWrapper div prevents scrollbars on the slide image http://css-tricks.com/the-css-overflow-property/ ...Not certain why wrapper needed, nor why it needs more than the 'overflow=hidden' -->
+  <div id="canvasWrapper">
+
+
+
+      <header id="header">
+            
+        <div id="logo">
+          <h1 class="logo stretch" style="letter-spacing: 0.1em;"><a href="/"><span id="green">Mark</span>Beveridge</a></h1>
+        </div>
+
+        
+        <div id="topNav">
+            <nav class="main-nav">
+              <a href="http://mark.dreamtime.org/blog/" target="_blank">Blog</a>
+              <a href="http://mark.dreamtime.org/photos/" target="_blank">Photos</a>
+              <a href="http://mark.dreamtime.org/tweets/" target="_blank">Tweets</a>
+              <a href="http://www.last.fm/user/mbeveridge" target="_blank">Scrobbles</a>
+            </nav>
+            
+            <nav class="secondary-nav">
+	          <a href="http://www.dreamtim.demon.co.uk/" target="_blank">Site1996</a>
+              <a href="http://mark.dreamtime.org/2004_2006/" target="_blank">Site2004</a>
+            </nav> 
+        </div>
+
+
+        <div id="header-social">
+          <a href="mailto:mark@dreamtime.org" target="_blank"><i class="fa fa-envelope fa-2x"></i></a>
+          <a href="https://twitter.com/mbeveridge" target="_blank"><i class="fa fa-twitter fa-2x"></i></a>
+          <a href="https://www.linkedin.com/pub/mark-beveridge/0/644/341" target="_blank"><i class="fa fa-linkedin fa-2x"></i></a>
+          <a href="http://www.flickr.com/people/mbeveridge/" target="_blank"><i class="fa fa-flickr fa-2x"></i></a>
+        </div>
+          
+      </header>
+
+
+
+      <section id="page" style="opacity: 0.6">
+
+
+            <!--CSS#2 --><img style="min-height:100%; min-width: 100%; top: 0px; left: 0px; position: fixed;" alt="profilebckgr_bristol.JPG" src="profilebckgr_bristol.JPG"></img>
+            
+            <!--CSS#1<img style="min-height:100%; min-width: 1024px; top: -70px; left: 0px; width: 100%; height: auto; position: fixed;" alt="profilebckgr_bristol.JPG" src="profilebckgr_bristol.JPG"></img> -->
+            
+                        
+<!--Image is background that shrinks when screen does, has same ratio as original photo. Extreme panorama, so a fudge, and wasteful of data ...and gives whitespace in an extreme landscape screen -->            
+            <!--<img style="top: 0px; left: 0px; position: absolute; height: 100%" src="panorama_CabotTower1.jpg" alt="panorama_CabotTower1"></img> -->
+
+<!--Image is background that shrinks when screen does, has same ratio as original photo, and is positioned to 'look best'. See http://css-tricks.com/how-to-resizeable-background-image/ "Third Attempt (best)". But gives whitespace in a portrait aspect ratio -->
+            <!--<img style="top: -70px; left: 0px; position: absolute; width: 100%" alt="profilebckgr_bristol.JPG" src="profilebckgr_bristol.JPG"></img> -->
+            
+<!--Photo gets virtually stretched/distorted to a fixed width&height ~same as PC screen, from 753x565. (Couldn't do in body as can't set size of a CSS 'background-image', nor its opacity.) But this prevents desired behaviour of shrinking when screen does  -->
+            <!--<img style="top: -7px; left: 0px; width: 1280px; height: 800px; position: relative;" alt="profilebckgr_bristol.JPG" src="profilebckgr_bristol.JPG"></img> -->
+
+      </section>
+
+
+
+  </div>
+
+</body>
+</html>   
+
