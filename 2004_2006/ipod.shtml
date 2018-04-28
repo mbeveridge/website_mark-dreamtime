@@ -1,0 +1,86 @@
+<html>
+
+<head>
+<title>[MBeveridge] iPod</title>
+<link rel="stylesheet" href="styles_mark.css" type="text/css">
+
+<style type="text/css">
+#ipod a:visited  {
+      font-weight: bold;
+      background: #105284;
+      color: #fff;
+      text-decoration: none;
+      }
+</style>
+
+</head>
+
+<body>
+
+<!--THE TITLE AND TOP NAVIGATION -->
+<!--#include virtual="htmlf/header.htmlf" -->
+
+<!--THE SIDEBAR NAVIGATION -->
+<!--#include virtual="htmlf/side.htmlf" -->
+
+<!--THE CONTENT -->
+<div id="wrapper">
+
+    <div id="primarycontent">
+    <h1>iPod</h1>
+    <p>The silver &amp; white "<a href="http://www.apple.com/ipod/">iPod</a>" is a portable digital music player from Apple, which uses a hard drive (rather than flash memory) as storage</p>
+    <p><em>[This page contains things I found out while deciding whether to buy a 3rd generation iPod, to use with a Windows laptop, in the United Kingdom. Most came from the forums listed below, and so I have used the word &quot;apparently&quot; a lot! :-)]</em></p>
+    <p><strong>Forums</strong> : <a href="http://www.ipodlounge.com/">iPodlounge</a>; <a href="http://www.ipoding.com/">iPoding</a>; <a href="http://www.info.apple.com/usen/ipodwin/">Apple</a>; <a href="http://hydrogenaudio.org/">Hydrogen Audio</a> (audio compression). [Also : epinions; Amazon]</p>
+    <p><strong>FAQ</strong> : <a href="http://www.ipodlounge.com/faqs.php">iPodlounge</a></p>
+
+<!--Horizontal rule -->
+    <hr />
+
+    <p><strong>Hardware - Which version</strong> : 20GB and 40GB include dock, headphone remote and case; (although you can also buy these as add-ons for the 15GB). The size you choose depends on how many songs (or other data files) you want to store. The maximum number of songs is a function of the encoding bit rate and file type, the song length, and how full you want the drive. (128kb/s MP3's, 4 minute songs and 90% full would give roughly the numbers advertised)</p>
+    <p><strong>Hardware - Where to buy</strong> : Lowest regular price is at Amazon UK (<a href="http://www.amazon.co.uk/exec/obidos/ASIN/B0001AE42Y/qid=1090942172/sr=2-3/ref=sr_2_11_3/026-1293751-6056427">15</a>; <a href="http://www.amazon.co.uk/exec/obidos/ASIN/B0000DETK2/qid=1065178319/sr=2-1/ref=sr_2_3_1/202-7181917-7503025">20</a>; <a href="http://www.amazon.co.uk/exec/obidos/ASIN/B0000DETLK/qid=1065178319/sr=2-3/ref=sr_2_3_3/202-7181917-7503025">40</a>) and <a href="http://www.johnlewis.com/stores/multiproduct.asp?shelfid=16177&str=12&Configurator=0">John Lewis</a>. Lowest price is probably at Dixons Duty Free. (If you are flying <u>within the EU</u> and they have none in stock, then ask for &quot;Home delivery&quot;, and pay the duty free price)</p>
+    <p><strong>Hardware - &quot;Windows or Mac iPod&quot;</strong> : The hard drive partition for file storage will be formatted for either Mac (HFS Plus) or Windows (FAT32). It can be reformatted later, but doing that will delete any files stored on the iPod</p>
+    <p><strong>Firmware</strong> : Essentially the &quot;operating system&quot;. Version 2.1 (released 16 Oct-03) allows voice notes and digital photos to be stored (with 3rd party peripherals). It now supports AAC audio files in Windows, and has improved some other things</p>
+    <p><strong>Firmware - the European volume issue</strong> : Apple put a firmware volume restriction (~75% of the US maximum) on every iPod sold in Europe. This makes it difficult for a listener in noisy places such as a bus/ train, and to drive larger headphones. [Note : amplitude of the &quot;line out&quot; signal that you get via the dock is NOT reduced]. Firmware version (US, European, etc) available for download from Apple apparently depends on a geographical setting stored in the iPod (based on info input by user at initial setup/sync?)</p>
+    <p>Work around the restriction by increasing the volume of all songs in the iPod database. Windows users can use iTunes, Media Center 9, XPlay, or <a href="http://www.ringom.no/espen/ipod/">euPOD</a> (free). The consensus is that this solution will not cause sound <a href="http://replaygain.hydrogenaudio.org/faq_quiet.html">distortion</a> (&quot;clipping&quot;). [If you want to <u>normalise</u> volume levels across your songs, <a href="http://www.geocities.com/mp3gain/">MP3Gain</a> (free) is the best tool</p>
+    <p><strong>Software - what encoding to use</strong> : iPod supports MP3 (up to 320kb/s), MP3 Variable Bit Rate (VBR), AAC, AIFF and WAV. Ultimately, it's down to personal preference : given the quality of your earphones/speakers, when do your ears no longer notice a difference?</p>
+    <p>Uncompressed CD audio (AIFF or WAV) occupies ~10MB per minute (1365kb/s). Audio file compression is achieved by removing sections above and below the range of human hearing. Apparently an MP3 sample rate of 256kb/s is essentially identical in sound quality to a CD. VBR encodes using fewer bits for less complex parts of a song, and more for more complex parts. It averages 192kb/s, but sounds close to 320kb/s constant bit rate</p>
+
+<!--Horizontal rule -->
+    <hr />
+
+    <p>Apple launched iTunes 4 for Windows on 16 Oct-03. The forums tend to prefer it to &quot;<a href="http://www.musicmatch.com/download/free/?OS=pc&amp;OEM=APPLE">MUSICMATCH</a> Jukebox Plus&quot; (MMJB), the 3rd party suite that Apple used to supply for Windows users</p>
+    <p>However, some people have found significant bugs/ problems (eg. disables other programs; strips tags; doesn't recognise playlists ...see forums); it isn't yet the automatic choice that was expected</p>
+    <p>Even when iTunes works &quot;properly&quot;, it will have certain DRM (Digital Rights Management) restrictions that hinder the free movement of songs amongst your devices, as does MMJB. But Media Center 9 (MC9), EphPod and XPlay don't. (I mean that in a good way)</p>
+    <p><strong>Software alternatives to iTunes/ MMJB</strong> :</p>
+    <p><em>[The software used to rip and encode will determine the quality of the recordings, so it is important to use a high-quality package]</em></p>
+
+    <ul>
+      <li>Ripping a CD : &quot;Exact Audio Copier&quot; (<a href="http://www.exactaudiocopy.de/">EAC</a>) turns the songs on your CDs into computer files that can be encoded. &quot;It's totally free, and it's absolutely the best of its kind because it can read even incredibly scratched CDs&quot;</li>
+      <li>Encoding as MP3's : &quot;LAME Ain't an MP3 Encoder&quot; (<a href="http://mitiok.cjb.net/">LAME</a>) compresses a large audio file (eg. WAV format) into a small MP3 file, and hopefully retains most of the quality. &quot;Not only is it the best, but it's completely free, and Open Source to boot&quot;</li>
+      <li>Encoding as AAC's (.m4a) : I've read that <a href="http://www.nero.com/en/631898241413125.html">Nero 6</a> is the best</li>
+      <li>Organising & syncing : <a href="http://www.ephpod.com/"> EphPod</a> is free (though if your iPod is formatted for a Mac then you also need <a href="http://www.dataviz.com/products/macopener/jump/mo_jump_ephpod.html"> MacOpener</a> to sync with it from Windows : 40USD). Or <a href="http://www.mediafour.com/">XPlay</a> (30USD after a 15 day trial). Or <a href="http://www.redchairsoftware.com/anapod/">Anapod</a> (Free trial version. 25USD for full-featured version ...15USD for limited period)</li>
+      <li>Editing <a href="http://www.id3.org/"> ID3</a> tags : various freeware packages</li>
+      <li>Playlists : various freeware. eg. <a href="http://www.winamp.com/">WinAmp</a>. [A <a href="http://smartplaylists.com/index.php">smart playlist</a> is a song list updated automatically, according to a set of rules]&nbsp;</li>
+    </ul>
+
+    <p><a href="http://www.musicex.com/mediacenter/"> Media Center 9</a> (40USD after 30 day trial) is an alternative suite that has consistently excellent reviews (if you ignore people not wanting to pay $). Its playlist management features include those of iTunes (such as Playcounts, Ratings, Last Played Date, etc); and it goes further ...eg. a playlist composed of playlistA + playlistB - playlistC. <u>Note</u> : MC9 has excellent support (and minimal &quot;noise&quot;) on the <a href="http://www.ipodlounge.com/forums/forumdisplay.php?s=4042dfeb30063165875674e1c3ee952a&amp;forumid=20">iPodlounge</a> forum; and you can also try the <a href="http://yabb.jriver.com/interact/index.php?board=3">JRiver</a> forum</p>
+    <p><a href="http://www.musicex.com/mediajukebox/">Media Jukebox</a> (25USD after 30 day trial of PLUS version; or free Basic version) is by the same people as MC9, but without support for video, images, TV, etc. See the features comparison at <a href="http://www.musicex.com/mediacenter/comparison.html">JRiver</a></p>
+    <p>MMJB had a poor reputation - weak user interface; slow; didn't rip/ encode to a high quality; caused problems when managing/ syncing; didn't allow song transfer from iPod to PC. [It was a special Apple edition of MMJB v7.1; and if you already had a more up-to-date version, you still needed to install it to avoid system problems]</p>
+
+<!--Horizontal rule -->
+    <hr />
+
+    <p><strong>PC hard drive required</strong> : You can sync all songs, sync specific playlists, or manually choose songs to upload. (Options depend on which organising &amp; syncing software you use.) So a hard drive larger than your iPod drive would give more flexibility/security, but there is no need for it</p>
+    <p><strong>PC OS required</strong> : Windows 98 SE, Windows ME,&nbsp; Windows 2000 or Windows XP. (iTunes requires Windows 2000 or XP)</p>
+    <p><strong>Network card required</strong> : Either FireWire or USB 2.0. FireWire can be 4 pin or 6 pin (6 pin card allows the iPod to charge while syncing with your PC). USB will require a &quot;USB 2.0 + FireWire cable&quot; (costs ~15 GBP) and free software update. USB also allows charging while syncing</p>
+    <p><strong>Dock(ing station)</strong> : Useful for the audio &quot;line out&quot; port that gives a clean signal (v's headphone port), to connect to powered speakers or a hifi; and as a stand. In the near future it may have an IR sensor, to use with a remote. (The dock is not a necessity - you could transfer music and charge your iPod using just the cable)</p>
+    <p><strong>Battery</strong> : has an 8 hour charge; but if you use backlight, EQ, etc then &lt;8hr. It also loses capacity gradually (&lt;8hr), and will probably be dead after 350-400 charges. The iPod must then be used from the dock (or cable), unless you buy a replacement battery. This issue started to get a lot of publicity in Dec-03 - see <a href="http://ipodbatteryfaq.com/">FAQ</a> and <a href="http://ipodlounge.com/forums/showthread.php?s=37a737cc3d354052dc7a084dce42f20a&threadid=19556">forum</a>; and Apple now offers a $99 replacement battery service</p>
+    <p><strong>Graphic equaliser(EQ)</strong>  : produces weird effects, particularly at higher volumes. No solution. Turn it off</p>
+    </div>
+
+</div>
+
+<!--#include virtual="htmlf/footer.htmlf" -->
+
+</body>
+</html>

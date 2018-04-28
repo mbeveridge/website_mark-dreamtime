@@ -1,0 +1,29 @@
+<div id="sidebar">
+
+<!--Links -->
+     <ul>
+     <li id="secondarytop"><a href="http://mark.dreamtime.org/2004_2006/">Home</a></li>
+     <li id="art"><a href="http://mark.dreamtime.org/2004_2006/art.shtml">Art</a></li>
+     <li id="ipod"><a href="http://mark.dreamtime.org/2004_2006/ipod.shtml">iPod</a></li>
+     <li id="kite"><a href="http://mark.dreamtime.org/2004_2006/kite.shtml">Kite</a></li>
+     <li id="wireless"><a href="http://mark.dreamtime.org/2004_2006/wireless.shtml">Wireless</a></li>
+     <li id="photos"><a href="http://mark.dreamtime.org/photos/" target="_blank">Photos</a></li>
+     </ul>
+
+     <ul>
+     <li id="tertiarytop"><a href="http://www.dreamtime.org/">Dreamtime [Ivan]</a></li>
+     <li><a href="http://www.ofa.org.uk">OFA [Ivan]</a></li>
+     <li><a href="http://mark.dreamtime.org/lucent/">Lucent UK Finance</a></li>
+     <li><a href="http://www.dreamtim.demon.co.uk/">1996 Dreamtime</a></li>
+     </ul>
+
+<!--Address -->
+      <p>Mark Beveridge</p>
+      <p><a href="mailto:mark@dreamtime.org">mark@dreamtime.org</a></p>
+
+<!--Horizontal rule -->
+      <hr />
+
+<!--Documents -->
+      <p>Resume [Word doc]</p>
+</div>

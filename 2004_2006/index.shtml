@@ -1,0 +1,54 @@
+<html>
+
+<head>
+<title>Mark Beveridge</title>
+<link rel="stylesheet" href="styles_mark.css" type="text/css">
+
+<style type="text/css">
+#secondarytop a:visited  {
+      font-weight: bold;
+      background: #105284;
+      color: #fff;
+text-decoration: none;
+      }
+</style>
+
+</head>
+
+<body>
+
+<!--THE TITLE AND TOP NAVIGATION -->
+<!--#include virtual="htmlf/header.htmlf" -->
+
+<!--THE SIDEBAR NAVIGATION -->
+<!--#include virtual="htmlf/side.htmlf" -->
+
+
+<!--THE CONTENT -->
+<div id="wrapper">
+
+    <div id="news">
+    <h1>News</h1>
+    <ul>
+    <li>17-21 Nov-04 : <a href="http://www.brief-encounters.org.uk/">Brief Encounters</a> - 10th Bristol International Short Film Festival</li>
+    <li>mid-Oct onwards : Best time to see Autumn tree colours in UK. [<a href="http://www.forestry.gov.uk/autumn">Forestry Commission</a>][<a href="http://www.woodland-trust.org.uk/">Woodland Trust</a>]</li>
+    <li>2-10 Oct-04 : Lyme Regis arts fest</li>
+    <li>21 Sep-04 : "Clockwork Orange" in <a href="http://www.pro5bristol.co.uk/lges/110071002102vrot01t001130.htm">Bristol Pro5</a> football, div 3</li>
+    <li>15 Sep-04 : Lucent Dodgers win <a href="http://www.swindonsoftball.co.uk/">Swindon softball</a> league</li>
+    <li>11-26 Sep-04 : <a href="http://www.somersetartweek.org.uk/">Somerset Art Week</a></li>
+    <li>27 Aug-04 : Wedding : Danielle Nichols and John Button. Newport (USA)</li>
+    <li>8 Aug-04 : <a href="http://www.sherbornehouse.org.uk/events/pages/news.html">Sherborne House</a> got 11.1% of vote in BBC2 "<a href="http://www.bbc.co.uk/history/programmes/restoration/">Restoration</a>" final; winner got 14.3%</li>
+    <li>12-15 Aug-04 : Bristol International <a href="http://www.bristolfiesta.co.uk/content.php?pid=18">Balloon Fiesta</a></li>
+    <li>17,18 Jul-04 : <a href="http://www.ashtoncourtfestival.co.uk/">Ashton Court Festival</a>, Bristol</li>
+    <li>27 Jun-04 : <a href="http://www.arnolfini.org.uk/">Arnolfini</a> building site tours, as part of <a href="http://www.architectureweek.org.uk/showEvent.asp?eventURN=793">Architecture Week<a></li>
+    <li>10 Apr-04 : Wedding : Kim Grant and Karl Dodsworth. Nottingham</li>
+    <li>Feb; Mar-04 : Snowboarding in <a href="http://195.188.132.51/resort.asp?sku=722">Kaprun</a>, Austria and Monetier (<a href="http://www.equityski.co.uk/skiing-resorts/france/serre-chevalier.asp">Serre Chevalier</a>), France. [Chalet staff <a href="http://seasonnaire.fotopages.com/">photos</a>]</li>
+    </ul>
+    </div>
+
+</div>
+
+<!--#include virtual="htmlf/footer.htmlf" -->
+
+</body>
+</html>

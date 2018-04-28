@@ -1,0 +1,199 @@
+body {
+     color: black;
+     background: white;
+     margin: 25px 0 25px 0;
+     padding: 0;
+     }
+
+p, li, ul, ol, h1, h2, h3, h4, h5, h6  {
+     font-family: verdana, arial, sans-serif;
+     }
+
+h1   {
+     font-weight: bold;
+     font-size: 1.8em;
+     }
+
+p, li    {
+     margin-top: 0;
+     margin-bottom: 1em;
+     text-align: left;
+     font-size: 0.85em;
+     line height: 1.5;
+     }
+
+hr   {
+     margin-top: 1em;
+     margin-bottom: 1em;
+     width: 50%;
+     height: 2px
+     }
+
+
+a:link  {
+        font-weight: normal;
+        text-decoration: underline;
+        color: blue;
+        }
+
+a:hover  {
+        font-weight: normal;
+        text-decoration: underline;
+        color: red;
+        }
+
+a:active  {
+        font-weight: normal;
+        text-decoration: underline;
+        color: red;
+        }
+
+a:visited  {
+        font-weight: normal;
+        text-decoration: underline;
+        color: purple;
+        }
+
+/* Basic page divisions */
+
+#nav  {
+     text-align: center;
+     border: 1px solid black;
+     width: 800px;
+     }
+
+#sidebar  {
+     position: absolute;
+     left: 0;
+     margin: 0;
+     margin-top: 25px;
+     padding: 0 15px 15px 15px;
+     background: #e6e6e6;
+     border: 1px dotted #000;
+     width: 150px
+     }
+
+#wrapper  {
+     border: 0;
+     padding: 0;
+     margin: 0;
+     margin-top: 25px;
+     margin-left: 203px;
+     width: 599px;
+     }
+
+#news  {
+     border: 2px solid #105284;
+     padding: 0;
+     margin: 0;
+     margin-top: 0;
+     width: 595px;
+     background: #ccffff;
+     }
+
+#primarycontent  {
+     border: 1px solid #000;
+     padding: 0 25px 25px 25px;
+     margin: 0;
+     margin-top: 0;
+     width: 547px;
+     }
+
+#footer p  {
+     font-size: 11px;
+     margin: 0;
+     margin-top: 50px;
+     margin-left: 205px;
+     padding: 0px
+     }
+
+
+/* Sidebar display attributes */
+
+#sidebar ul  {
+     list-style: none;
+     padding: 0;
+     margin: 0;
+     margin-top: 15px;
+     margin-bottom: 15px;
+     border: 0;
+     }
+
+#sidebar li  {
+     text-align: center;
+     border-bottom: 1px solid #000;
+     width: 150px;
+     margin: 0;
+     padding: 0;
+     font-family: verdana, arial, sans-serif;
+     font-size: 11px;
+     line-height: 25px;
+     }
+
+#secondarytop, #tertiarytop  {
+     border-top: 1px solid #000;
+     }
+
+#sidebar li a  {
+     display: block;
+     font-weight: bold;
+     padding: 0;
+     border-left: 1px solid #000;
+     border-right: 1px solid #000;
+     background: #ccffff;
+     color: #000;
+     text-decoration: none;
+     width: 148px;   
+     }
+
+#sidebar li a:hover  {
+     font-weight: bold;
+     background: #c90;
+     color: #fff;
+     text-decoration: none;
+     }
+
+#sidebar p  {
+     font-family: verdana, arial, sans-serif;
+     font-size: 11px;
+     font-weight: normal;
+     }
+
+
+/* Navigation bar components */
+
+#nav a  {
+     margin: 0;
+     padding: 0;
+     font-family: verdana, arial, sans-serif;
+     font-style: italic;
+     font-weight: bold;
+     text-decoration: none;
+     font-size: 25px;
+     line-height: 75px;
+     color: black;
+     background: white;
+     display: block;
+     width: 800px;
+     }
+
+#nav a:hover  {
+     color: blue;
+     }
+
+#photos a:link, #photos a:visited  {
+     color: red;
+     }
+
+#news h1  {
+     padding: 0;
+     padding-top: 0;
+     padding-left: 25px;
+     }
+
+#news ul  {
+     list-style: none;
+     padding: 0 25px 25px 25px;
+     margin: 0px;
+     border: 0;
+     }

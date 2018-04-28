@@ -1,0 +1,224 @@
+/*
+html { 
+  background: url(../profilebckgr_bristol_60.png) no-repeat 0px -7px fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+*/
+
+
+
+header,
+nav,
+section {
+  display: block;
+}
+/* Base */
+body {
+  font-family: 'Gill Sans', 'Helvetica', arial, sans-serif;
+  font-weight: normal;
+  line-height: 1.6em;
+  font-style: normal;
+  font-size: 12px;
+  margin: 0;
+}
+/* Links */
+a {
+  color: #0085bd; /* blue */
+  text-decoration: none;
+}
+a:hover {
+  color: #60a5dd; /* pale blue */
+  text-decoration: none;
+}
+a:focus {
+  outline: thin dotted;
+}
+a:hover,
+a:active {
+  outline: 0;
+}
+/* Embedded content */
+img {
+  border: 0;
+  vertical-align: middle;
+}
+/* COLORS & BACKGROUNDS
+***********************************************/
+body {
+  background-image: none;
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-color: #fff; /* white ...Shows through when "slide" has opacity <1. (So #111 would make the "slide" photo look dark-greyer) */
+  color: #444; /* mid-grey */
+}
+/* FONTS & VERTICAL GRID
+***********************************************/
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Gill Sans', 'Helvetica', arial, sans-serif;
+  font-weight: bold;
+  text-transform: normal;
+  line-height: 1.4em;
+  text-transform: none;
+  font-style: normal;
+  margin: 1em 0 .5em;
+}
+h1 {
+  font-size: 18px;
+}
+h2 {
+  font-size: 14.4px;
+}
+h3 {
+  font-size: 12px;
+}
+p {
+  font-weight: normal;
+  margin: 0 0 1em;
+}
+#logo {
+  float: left; /* Allows logo and topNav to be on the same level (rather than topNav below) */
+  margin-right: 50px; /* Was previously ok as 30px, before logo was stretched */
+  margin-left: 20px; /* Didn't exist before logo was stretched */
+}
+.logo {
+  display: inline-block;
+  font-weight: normal;
+  line-height: 1.2em;
+  font-size: 38px;
+  text-transform: uppercase;
+  margin: 0;
+}
+.logo a {
+  color: #fff; /* white */
+}
+#green {
+  color: #86d200; /* #76ee00 Chartreuse2 ...green, used on biz card */
+}
+
+/* http://stackoverflow.com/questions/6351013/css-can-i-stretch-text ...Stretch to 15% */
+h1.stretch {
+    display:inline-block;
+    transform:scale(1.16,1); /* W3C */
+    -webkit-transform:scale(1.16,1); /* Safari and Chrome */
+    -moz-transform:scale(1.16,1); /* Firefox */
+    -ms-transform:scale(1.16,1); /* IE 9 */
+    -o-transform:scale(1.16,1); /* Opera */
+}
+
+#topNav {
+  float: left;
+  position: relative;
+  max-width: 75%;
+}
+nav {
+  display: inline-block;
+  bottom: -3px;
+  margin-top: 0;
+  float: left;
+}
+.main-nav {
+  z-index: 100;
+}
+.secondary.nav {
+  z-index: 101;
+}
+nav a,
+nav a:visited {
+  display: inline-block;
+  margin-right: 30px;
+  text-align: right;
+  line-height: 28px;
+  padding: 13.599999999999998px 0;
+  font-weight: normal;
+  font-size: 14px;
+  text-transform: uppercase;
+  color: #aaa; /* light grey */
+}
+nav .active-link > a,
+nav .active-link > a:visited {
+  color: #fff; /* white */
+}
+nav a:hover {
+  color: #fff; /* white */
+}
+
+/* Am not using active-link at the moment */
+nav active-link a:after {
+  content: "";
+  display: block;
+  position: absolute;
+  bottom: 13.599999999999998px;
+  height: 1px;
+  background-color: #aaa; /* light grey */
+  width: 50%;
+  margin-left: -25%;
+  left: 50%;
+}
+/* LAYOUT (WIDTHS & PADDING)
+************************************************/
+
+/* COLLECTIONS / PAGES
+***********************************************/
+#canvasWrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  overflow: hidden;
+}
+#header {
+  background-image: none;
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-color: rgba(77, 67, 37, 0.9); /* #4d4325 | rgba(17, 17, 17, .8) dark grey (#111*), but not solid ...opacity 0.8 */
+  width: 100%;
+  position: absolute;
+  z-index: 999;
+  padding: 30px 35px;
+  bottom: 20px; /* locates header navbar vertically on the screen ...else it floats to top */
+}
+#page {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  max-width: none;
+  padding: 0;
+}
+/* ++++++++++++++++
+   ++++ SOCIAL ++++
+   ++++++++++++++++ */
+#header-social {
+  position: absolute;
+  right: 100px; /* was ok as 30px before I removed #headerWrapper. Why changed? */
+  top: 40%; /* Previously 50% */
+  margin-top: -16px;
+  max-width: 180px;
+  padding: 13.599999999999998px 0;
+}
+#header-social a,
+#header-social a:visited {
+  display: block;
+  width: 18px;
+  height: 18px;
+  float: left;
+  margin: 0 0 10px 13.5px;
+  color: #aaa; /* light grey */
+  text-decoration: none;
+}
+#header-social a:hover,
+#header-social a:visited:hover {
+  color: #86d200; /* #76ee00 Chartreuse2 ...green, used on biz card */
+}

@@ -1,0 +1,111 @@
+<html>
+
+<head>
+<title>[MBeveridge] Art</title>
+<link rel="stylesheet" href="styles_mark.css" type="text/css">
+
+<style type="text/css">
+#art a:visited  {
+      font-weight: bold;
+      background: #105284;
+      color: #fff;
+      text-decoration: none;
+      }
+</style>
+
+</head>
+
+<body>
+
+<!--THE TITLE AND TOP NAVIGATION -->
+<!--#include virtual="htmlf/header.htmlf" -->
+
+<!--THE SIDEBAR NAVIGATION -->
+<!--#include virtual="htmlf/side.htmlf" -->
+
+<!--THE CONTENT -->
+<div id="wrapper">
+
+    <div id="primarycontent">
+    <h1>Art</h1>
+    <p>I don't like everything from the following artists, but I do look out for their names</p>
+    <p>Many are members of Sherborne Contemporary Arts (SCA), and exhibited at Sherborne House</p>
+    <p>Below the Artists are some Galleries and Arts Weeks that I visit. Bold links indicate what I find consistently interesting, rather than (necessarily) what I like best</p>
+    <p>[Finally, some US museums/ galleries I enjoyed]</p>
+    <p>Local arts magazine is &quot;<a href="http://www.evolver.org.uk">Evolver</a>&quot; (&quot;Promoting the arts in Wessex&quot;), available free from various shops and galleries, or £15 for 6 issues [<a href="mailto:simon@evolver.org.uk">email</a>]</p>
+
+<!--Horizontal rule -->
+    <hr />
+
+    <p><a href="http://www.angelacharles.com/"><strong>Angela Charles</strong></a> : Exhibited at <a href="http://www.sherbornehouse.org.uk/openhouse/pages/angela_charles.html">Sherborne House</a>, Alpha House Gallery and Blue Lias. Met in Dec-03 at Sherborne House</p>
+    <p>Susan Caines : Liked her Italian landscapes, particularly &quot;Sienese Landscape I&quot; seen at Alpha House Gallery in Nov-02. Oil on linen gives them a dreamy quality, like a heat haze</p>
+    <p><strong><a href="http://www.rchittenden.co.uk/">Rosanna Chittenden</a></strong> : Was keen to buy a <a href="http://www.rchittenden.co.uk/lwc.html">figure</a> Diptych that I saw at exhibition (Sherborne House Jun-01), but it was already sold. (Not on her site, for me to link to, but the images there are similar)</p>
+    <p><a href="http://www.marziacolonna.com/"><strong>Marzia Colonna</strong></a> : Bronze sculpture of the human form, and drawings. First saw her work at an Alpha House Gallery exhibition in Jun-02, and met during Dorset Art Weeks (Jun-04). Own one drawing</p>
+    <p><a href="http://www.clandonart.com/">Vicky Finding</a> : Bought one of the Sea studies ("Squall 2" ...called "Sea 1" on website, I think) in Oct-01, from William Pelly Gallery, and still very happy with it. Met during Dorset Art Weeks (Jun-04)</p>
+    <p><a href="http://www.van-rijn.co.uk/"><strong>Alan Hussey</strong></a> : &quot;Beautiful contemporary minimalist furniture in solid English hardwoods.&quot; I agree with this. Saw Alan's workshop during Dorset Art Weeks (Jun-02). Exhibits at Dansel Gallery</p>
+    <p><a href="http://www.island-gallery.co.uk/art/abstract/heidi_konig/">Heidi Konig</a> : Seen at Rostra Gallery in Aug-03</p>
+    <p><a href="http://fineart.ac.uk/artists/130/">Ian Potts</a> : Liked "'The edge of the blue' : Feluccas on the Nile" that I saw at Alpha House (Mar-02)</p>
+    <p>Rachel Sargent :</p>
+    <p><strong>Jennifer Semmons</strong> : Alpha House Gallery Feb-03. I liked a few (&quot;City Sunset&quot;, &quot;Venetian Triptych&quot;, &quot;Vestibule&quot;), but can't find any images</p>
+    <p><strong>Amanda Wallwork</strong> : Some wonderful colours and shapes. Always come away from her exhibitions with new thoughts, and have several pieces at home. The artist who (Jun-00) first inspired me to buy, and to keep visiting galleries</p>
+    <p><a href="http://www.blackandwhiteimages.co.uk/"><strong>Joy White</strong></a> :
+    Hand-printed B&amp;W photographs. Met and bought several in Dec-03. Exhibits at Blue Lias gallery</p>
+
+<!--Horizontal rule -->
+    <hr />
+
+    <p><strong><a href="http://www.sherbornehouse.org.uk/">Sherborne House</a></strong> : First visited to see how the building had changed since I had school lessons there. Now visit whenever I'm in the area. Informal, eclectic, experimental. Interesting</p>
+    <p><strong><a href="http://www.dorsetartweek.com/alphahouse/">Alpha House Gallery</a></strong> [Sherborne] : &quot;A West End gallery in Dorset&quot;. Usually exhibiting a couple of painters, and ceramics</p>
+    <p>The Old Warehouse Gallery [Dorchester] : Only seen from the outside, as it doesn't keep to its advertised hours</p>
+    <p><strong><a href="http://www.bluelias.co.uk">Blue Lias</a></strong> [Lyme Regis] : &quot;Contemporary artworks reflecting our heritage coast.&quot; Joy White's photos, and usually other interesting stuff</p>
+    <p>William Pelly Gallery [Lyme Regis]</p>
+    <p><a href="http://www.townmill.org.uk/">The Town Mill</a> [Lyme Regis]</p>
+    <p><a href="http://www.arnolfini.org.uk/">Arnolfini</a> [Bristol] : Contemporary arts centre. Building closed from Sep-03 until Summer-05</p>
+    <p><a href="http://www.rwa.org.uk/">Royal West of England Academy (RWA)</a> [Bristol] : &quot;School of Art&quot; is next door, and had a very good student exhibition Summer-03 (including <a href="http://www.findingart.com/">Kate Poore</a> ...nee Finding)</p>
+    <p>Guild Gallery [Bristol] : Top floor of the <a href="http://www.bristolguild.co.uk/"> Bristol Guild</a> shop, in Park St</p>
+    <p>Centrespace [Bristol]</p>
+    <p><a href="http://www.pbase.com/p82d/leeky/">Leeky Gallery</a> [Bristol]</p>
+    <p><a href="http://www.bihand.co.uk/">bi-HAND</a> [Bristol] : Jo &amp; Simon</p>
+    <p><a href="http://www.innocentfineart.co.uk/">Innocent fine art</a> [Bristol]</p>
+    <p><strong><a href="http://www.rostragallery.co.uk/">Rostra Gallery</a></strong> [Bath] : Diverse range and friendly staff</p>
+    <p><a href="http://www.edgarmodern.com/">edgarmodern art space</a> [Bath] : Friendly</p>
+    <p><a href="http://www.ropestoregallery.co.uk/ropestoregallery.html">Rope Store Studio Gallery</a> [Nailsworth]</p>
+
+<!--Horizontal rule -->
+    <hr />
+
+    <p><a href="http://www.dorsetartweek.com">Dorset</a> Art Weeks (DAW) : was last in Jun-04</p>
+    <p>Lyme Regis ArtsFest [Dorset] : next 1-9 Oct-05</p>
+    <p><a href="http://www.somersetartweek.org.uk">Somerset</a> Art Week : was last in Sep-04</p>
+    <p><a href="http://www.northsomersetarts.org.uk/">North Somerset</a> Arts Week : next 6-15 May-05</p>
+    <p><a href="http://www.chewvalley.co.uk/arts/">Chew Valley</a> arts trail [NE Somerset] : open studios were last in Oct-04</p>
+    <p><a href="http://www.forest-bigartweb.net/">Forest of Dean</a> art trail : open studios were last in Jul-04</p>
+    <p><a href="http://www.wvat.co.uk/">Wylye Valley</a> art trail [South Wiltshire] : next one 28 May to 5 Jun-05</p>
+    <p><a href="http://www.northbristolartists.co.uk/">North Bristol</a> &quot;Artists at Home 2&quot; : open studios were last in Nov-04</p>
+    <p><a href="http://www.roundthehouses.org/">Round the Houses</a> - Clifton & Redland art trail [Bristol] : was last in Oct-04</p>
+    <p><a href="http://www.spikeisland.org.uk/">Spike Island</a> [Bristol] : open studios next 31 Apr to 2 May-05</p>
+    <p><a href="http://www.southbank-bristol.co.uk/">South Bank</a> arts trail [Bristol] : next 21,22 May-05</p>
+
+<!--Horizontal rule -->
+    <hr />
+
+    <p><a href="http://www.icaboston.org/">ICA Boston</a> [Boston, USA]</p>
+    <p><a href="http://www.mfa.org/">Museum of Fine Arts</a> [Boston, USA]</p>
+    <p><a href="http://www.copleysociety.org/">The Copley Society</a> [Boston, USA]</p>
+    <p><a href="http://www.bcaonline.org/exhibitions.htm">Boston Center for the Arts</a> [Boston, USA]</p>
+    <p><a href="http://www.useaboston.com/">United South End Artists</a> [Boston, USA]</p>
+    <p><a href="http://www.mcachicago.org">Museum of Contemporary Art</a> [Chicago, USA]</p>
+    <p><a href="http://www.mocp.org">Museum of Contemporary Photography</a> [Chicago, USA]</p>
+    <p><a href="http://www.artic.edu">Art Institute of Chicago</a> [Chicago, USA]</p>
+    <p><a href="http://www.moma.org/">MoMA</a> [New York, USA]</p>
+    <p><a href="http://www.metmuseum.org">Metropolitan Museum of Art</a> [New
+    York, USA]</p>
+    <p><a href="http://www.guggenheim.org">Guggenheim Museum</a> [New York, USA]</p>
+    </div>
+
+</div>
+
+<!--#include virtual="htmlf/footer.htmlf" -->
+
+</body>
+</html>

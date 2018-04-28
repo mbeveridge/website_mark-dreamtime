@@ -1,0 +1,51 @@
+<html>
+
+<head>
+<title>[MBeveridge] Wireless</title>
+<link rel="stylesheet" href="styles_mark.css" type="text/css">
+
+<style type="text/css">
+#wireless a:visited  {
+      font-weight: bold;
+      background: #105284;
+      color: #fff;
+      text-decoration: none;
+      }
+</style>
+
+</head>
+
+<body>
+
+<!--THE TITLE AND TOP NAVIGATION -->
+<!--#include virtual="htmlf/header.htmlf" -->
+
+<!--THE SIDEBAR NAVIGATION -->
+<!--#include virtual="htmlf/side.htmlf" -->
+
+<!--THE CONTENT -->
+<div id="wrapper">
+
+    <div id="primarycontent">
+    <h1>Wireless</h1>
+    <p><em>(Some stuff that interests me at the moment.) &quot;The Internet has been a sandbox for innovative applications. Will <u>mobile</u> communications have the same opportunity, or will commercial self-interest ('walled gardens', spectrum limits, DRM, etc) prevent it?&quot; :</em></p>
+    <p><strong>Open spectrum, and the wireless commons</strong> : After reading David Weinberger's <a href="http://www.greaterdemocracy.org/OpenSpectrumFAQ.html">FAQ</a>, the best site to visit for original resources is <a href="http://www.reed.com/dprframeweb/dprframe.asp?section=openspec">Dave Reed</a>'s. The manifesto is at <a href="http://www.wirelesscommons.org/">wirelesscommons.org</a>. [Books : I recommend &quot;<a href="http://www.smartmobs.com/">Smart Mobs</a>&quot; by Howard Rheingold, which covers several themes on this page. And &quot;<a href="http://www.amazon.co.uk/exec/obidos/ASIN/0375726446/ref=sr_aps_books_1_1/202-7181917-7503025">The Future of Ideas</a>&quot; by <a href="http://lessig.org/blog/"> Lawrence Lessig</a>]</p>
+    <p><strong>"Stupid" networks and the end-to-end argument</strong> : The network should not choose how it is used. Control (or intelligence) is placed at the &quot;end&quot; (with the user), rather than in the centre, and this enables more innovation. The Internet was designed this way, before &quot;Quality of Service&quot; (QoS)</p>
+    <p>First described by Dave Reed et al, there are some interesting Papers and Thoughts on his site, including &quot;<a href="http://www.reed.com/dprframeweb/dprframe.asp?section=paper&fn=endofendtoend.html">The end of end-to-end?</a>&quot;. The famous &quot;<a href="http://www.hyperorg.com/misc/stupidnet.html">Rise of the Stupid Network</a>&quot; article was written by <a href="http://isen.com/">David Isenberg</a>, and the proposed impact on telco business is laid out in <a href="http://www.netparadox.com/">netparadox.com</a></p>
+    <p><strong>Software Defined Radio [SDR]</strong> : is an example of an intelligent end user device. [<a href ="http://www.mmitsforum.org/">SDR Forum</a>, and <a href="http://www.vanu.com/">Vanu Inc</a>]</p>
+    <p><strong>Wireless Networking</strong> : &quot;<a href="http://www.disruptivetechnologies.com/">Disruptive</a>&quot; wireless technologies got a lot of press in 2003 (v's cellular radio) because of price, performance and flexibility; but the first &quot;<a href="http://www.business2.com/articles/mag/0,1640,9525,FF.html">Next Big Thing</a>&quot; article for Wi-Fi was back in Mar-01</p>
+    <p>[NEWS : &quot;<a href="http://wifinetnews.com/">Wi-Fi Networking News</a>&quot;; &quot;<a href="http://www.80211-planet.com/">802.11 Planet</a>&quot;; <a href="http://web2.wireless.com/index.php?name=News&catid=4&topic=">wireless.com</a>. RESOURCES : <a href="http://www.weca.net/OpenSection/index.asp">Wi-Fi Alliance</a>; <a href="http://ieee802.org/dots.html">IEEE 802</a>; <a href="http://www.radio.gov.uk">Radiocommunications Agency</a>]. FAQ for setting up a network at <a Href="http://consume.net/twiki/bin/view/Main/ConsumeFAQs">consume.net</a> and some tools at <a href="http://www.landmap.co.uk/">landmap.co.uk</a>]</p>
+    <p><strong>Wi-Fi networks in Bristol, UK</strong> : Node locations at <a href="http://intel.jiwire.com/search-wifi-hotspots.htm?command=&ssid=&hotspot_name=&location_type_id=0&technology_id=0&provider_id=0&pay_free=both&address=&country_id=226&city=bristol&radius=5.0&state_id=0&zip=">Intel</a>, <a href="http://www.wi-fihotspotlist.com/search.php?street=&city=Bristol&state=&zip=&country=GB&network=&proximity=5&submit.x=77&submit.y=17">Wi-FiHotSpotList.com</a> and <a href="http://www.wifinder.com/searchresults.php?PHPSESSID=67db224fd1d3f37656499bf02a469c1b&loc=&add=&city=bristol&st=Any&zip=&country=United+Kingdom&tfree=yes&tpaid=yes&protocol=1&x=26&y=6">WiFinder.com</a>. Also <a href="http://www.bristolwireless.net/">bristolwireless.net</a> and <a href="http://www.locfinder.com/unitedkingdom/en/bristol/">Node DB</a> for local projects. And <a href="http://www.wifimaps.com/">WiFiMaps.com</a> for a web-based map of data collected by wardrivers (USA)</p>
+
+<!--Horizontal rule -->
+    <hr />
+
+    <p>Other : <a href="http://shirky.com/">Clay Shirky</a>; <a href="http://www.geoffreyphillips.com/">Geoffrey Phillips</a>; <a href="http://www.ntk.net/">NTK</a></p>
+    </div>
+
+</div>
+
+<!--#include virtual="htmlf/footer.htmlf" -->
+
+</body>
+</html>
