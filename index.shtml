@@ -4,7 +4,7 @@
 <title>Mark Beveridge | Homepage</title>
 <link rel="stylesheet" type="text/css" href="css/styles.css"/>
 <!-- The social media links are Font Awesome font and method (i tag) -->
-<link rel="stylesheet" type="text/css" href="css/font-awesome.css">
+<link rel="stylesheet" type="text/css" href="css/fontawesome-all.css">
 
 </head>
 
@@ -39,10 +39,10 @@
 
 
         <div id="header-social">
-          <a href="mailto:mark@dreamtime.org" target="_blank"><i class="fa fa-envelope fa-2x"></i></a>
-          <a href="https://twitter.com/mbeveridge" target="_blank"><i class="fa fa-twitter fa-2x"></i></a>
-          <a href="https://www.linkedin.com/pub/mark-beveridge/0/644/341" target="_blank"><i class="fa fa-linkedin fa-2x"></i></a>
-          <a href="http://www.flickr.com/people/mbeveridge/" target="_blank"><i class="fa fa-flickr fa-2x"></i></a>
+          <a href="mailto:mark@dreamtime.org" target="_blank"><i class="fas fa-envelope fa-2x"></i></a>
+          <a href="https://twitter.com/mbeveridge" target="_blank"><i class="fab fa-twitter fa-2x"></i></a>
+          <a href="https://www.linkedin.com/pub/mark-beveridge/0/644/341" target="_blank"><i class="fab fa-linkedin-in fa-2x"></i></a>
+          <a href="http://www.flickr.com/people/mbeveridge/" target="_blank"><i class="fab fa-flickr fa-2x"></i></a>
         </div>
           
       </header>
