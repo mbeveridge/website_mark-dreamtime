@@ -18,6 +18,10 @@ Email
 
 Twitter
 
+lastfm (AudioScrobbler)
+
 LinkedIn
 
-Flickr
+BitBucket
+
+GitHub
