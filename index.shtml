@@ -41,6 +41,7 @@
         <div id="header-social">
           <a href="mailto:mark@dreamtime.org" target="_blank"><i class="far fa-envelope fa-2x"></i></a>
           <a href="https://twitter.com/mbeveridge" target="_blank"><i class="fab fa-twitter fa-2x"></i></a>
+          <a href="https://mastodon.cloud/@mbeveridge" target="_blank"><i class="fab fa-mastodon fa-2x"></i></a>
           <a href="https://www.last.fm/user/mbeveridge" target="_blank"><i class="fab fa-lastfm-square fa-2x"></i></a>
           <a href="https://www.linkedin.com/in/mark-beveridge/" target="_blank"><i class="fab fa-linkedin-in fa-2x"></i></a>
           <a href="https://www.meetup.com/members/226425337/" target="_blank"><i class="fab fa-meetup fa-2x"></i></a>
