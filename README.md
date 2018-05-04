@@ -5,8 +5,6 @@
 
 **TWEETS** : Link to self-hosted (old) TweetNest archive. [protected]
 
-**SCROBBLES** : Link to https://www.last.fm/user/mbeveridge ...Will remove this and use lastfm icon (available in FontAwesome5)
-
 **SITE1996** : Link to original site from 1996 (still live)
 
 **SITE2004** : How this site looked, 2004-2006, now in '2004_2006' sub-directory
@@ -18,9 +16,13 @@ Email
 
 Twitter
 
+Mastodon
+
 lastfm (AudioScrobbler)
 
 LinkedIn
+
+Meetup
 
 BitBucket
 
