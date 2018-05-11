@@ -1,5 +1,6 @@
+## Contents of index.shtml
 
-##### Text links :
+#### Text links :
 
 **BLOG** : Link to self-hosted WordPress blog, set up in Sep04. Posts from Aug06-Nov07
 
@@ -14,7 +15,7 @@
 _SITE2006 : How this site looked, 2006-2013, now in the '2006_2013' sub-directory. [Not online/public]_
 
 
-##### FontAwesome icons (SVG) :
+#### FontAwesome icons (SVG) :
 
 Email
 
@@ -31,3 +32,7 @@ Meetup
 BitBucket
 
 GitHub
+
+#### Background :
+
+image of Bristol
