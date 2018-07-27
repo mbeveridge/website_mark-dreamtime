@@ -27,9 +27,7 @@ lastfm (AudioScrobbler)
 
 LinkedIn
 
-Meetup
-
-BitBucket
+kaggle
 
 GitHub
 
